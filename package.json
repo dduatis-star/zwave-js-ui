@@ -159,7 +159,7 @@
     "globals": "^16.4.0",
     "js-logger": "^1.6.1",
     "markdown-it": "^14.1.0",
-    "markdownlint-cli": "^0.47.0",
+    "markdownlint-cli": "^0.49.1",
     "material-design-icons-iconfont": "^6.7.0",
     "mocha": "^10.4.0",
     "nodemon": "^3.1.3",
